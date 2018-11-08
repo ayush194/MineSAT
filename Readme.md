@@ -1,11 +1,6 @@
 # SAT-SOLVER
 MineSAT is an optimised SAT-Solver that uses the Semantic Tableux as a decision procedure for solving SAT problems.
 
-## Authors:
-### Ayush Kumar (170195)
-### Deepesh Kumar Lall (170236)
-
-
 ## To use this SAT-Solver,
 
 1. Compile sat_solver.cpp :
@@ -35,6 +30,7 @@ g++ -std=c++11 sat_solver.cpp -o minesat
 
 ## Benchmarks :
 
-• 82958 steps were required to solve a 9x9 SUDOKU+ from the first assignment and it took 85.7702 seconds to solve.
-• 1 step was required to solve a 4x4 SUDOKU+ and it took 0.010606 seconds to solve.
+* 588 steps were required to solve a 9x9 SUDOKU+ from the first assignment and it took 3.77585 seconds to solve.
+* 1 step was required to solve a 4x4 SUDOKU+ and it took 0.010606 seconds to solve.
+* 117.045, 691.537 and 0.006961 seconds were required to clear uuf175-021, uuf175-033 and uf50-022 benchmarks.
 

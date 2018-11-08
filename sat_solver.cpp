@@ -3,8 +3,7 @@
 SAT SOLVER
 
 Authors :
-Ayush Kumar (170195)
-Deepesh Kumar Lall (170236)
+Ayush Kumar
 
 Created on 10/26/18
 
